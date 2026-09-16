@@ -13,6 +13,4 @@ full stack Developer
 ![](https://komarev.com/ghpvc/?username=your-github-nanchaporn&color=red)
 
 <img
-src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/imgres?q=%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0&imgurl=https%3A%2F%2Flibrary.wu.ac.th%2Fcontent%2Fwp-content%2Fuploads%2Fsites%2F8%2F2021%2F07%2F02-2.jpg&imgrefurl=https%3A%2F%2Flibrary.wu.ac.th%2Fcontent%2F5-%25E0%25B8%25AD%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A-%25E0%25B8%25AD%25E0%25B8%2599%25E0%25B8%25B4%25E0%25B9%2580%25E0%25B8%25A1%25E0%25B8%25B0%2F&docid=HyPiGTkKoY1kvM&tbnid=o66CC7OXtNIn4M&vet=12ahUKEwjJ9KOW0_KWAxV9XWwGHc-xBcE4FBCc8A56BQiSAxAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjJ9KOW0_KWAxV9XWwGHc-xBcE4FBCc8A56BQiSAxAA)" width="100" height="100" />
+src="https://t1.blockdit.com/photos/2022/10/635967cf943b413912089905_800x0xcover_DAE7k6cc.jpg" width="100" height="100" />
